@@ -1,0 +1,10 @@
+.pertama {
+  background-image: url('https://media.giphy.com/media/oYbyBEglwdzF3grJik/giphy.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
